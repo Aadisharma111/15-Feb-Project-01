@@ -1,0 +1,44 @@
+.image1Icon {
+  position: absolute;
+  top: 325px;
+  left: 207px;
+  width: 202px;
+  height: 217px;
+  object-fit: cover;
+}
+.inThisProject {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.fromAAnd {
+  margin: 0;
+}
+.inThisProjectContainer,
+.parentData1Container {
+  margin: 0;
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+}
+.parentData1Container {
+  top: 65px;
+  left: 11px;
+  display: inline-block;
+  width: 179px;
+  height: 260px;
+}
+.image1Parent {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 631px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
